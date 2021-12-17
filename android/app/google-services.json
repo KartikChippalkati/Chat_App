@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "534206576098",
+    "project_id": "flash-chat-4a385",
+    "storage_bucket": "flash-chat-4a385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534206576098:android:41037a32d7c8a106f935bb",
+        "android_client_info": {
+          "package_name": "co.kartikchiplya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFWeeQioTkSJmri2XrKeNBmFNTEFvUNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534206576098-k8hng036di68gfbiblrg174rstjm6s5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kartikchippalkatti.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534206576098:android:c0d4a96999b05967f935bb",
+        "android_client_info": {
+          "package_name": "co.kartikchippalkatti.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFWeeQioTkSJmri2XrKeNBmFNTEFvUNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534206576098-k8hng036di68gfbiblrg174rstjm6s5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kartikchippalkatti.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534206576098:android:64150c10e3fcbfa3f935bb",
+        "android_client_info": {
+          "package_name": "com.karuchiplya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFWeeQioTkSJmri2XrKeNBmFNTEFvUNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534206576098-vgb9i5s5sfiqv5u6vc670i5i2vf0sinc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534206576098-k8hng036di68gfbiblrg174rstjm6s5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kartikchippalkatti.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
